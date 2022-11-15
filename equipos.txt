@@ -1,0 +1,1 @@
+['Coyotes de TlaxcalaPuebla\n', 'Liverpool\n', 'Arsenal\n', 'Guerreros UTT\n', 'FC Barcelona', 'Real Madrid\n', 'Cheseal\n', 'BvB']
